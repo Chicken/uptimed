@@ -1,0 +1,12 @@
+[
+  {
+    "type": "docker",
+    "name": "mysecretproject",
+    "push": "https://status.antti.codes/api/push/*****"
+  },
+  {
+    "type": "pm2",
+    "name": "randomscript",
+    "push": "https://status.antti.codes/api/push/*****"
+  }
+]
